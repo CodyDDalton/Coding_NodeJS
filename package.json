@@ -1,0 +1,23 @@
+{
+  "name": "coding_nodejs",
+  "version": "1.0.0",
+  "description": "NodeJS Coding",
+  "main": "server.js",
+  "scripts": {
+    "test": "jst --coverage"
+  },
+  "keywords": [
+    "NodeJS",
+    "Assignment"
+  ],
+  "author": "Eric Clarke",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "jest": "^29.0.2",
+    "nodemon": "^2.0.19"
+  }
+}
