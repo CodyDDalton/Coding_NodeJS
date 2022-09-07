@@ -1,0 +1,11 @@
+Test with Jest
+
+Testing the Math Object
+
+Add
+Subtract
+Multiply
+Divide
+
+Square Root
+Max
